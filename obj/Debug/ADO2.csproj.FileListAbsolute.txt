@@ -1,0 +1,11 @@
+E:\coullege stuff\ITI\M5\W19\Link.ADO\D2\ADO2\bin\Debug\ADO2.exe.config
+E:\coullege stuff\ITI\M5\W19\Link.ADO\D2\ADO2\bin\Debug\ADO2.exe
+E:\coullege stuff\ITI\M5\W19\Link.ADO\D2\ADO2\bin\Debug\ADO2.pdb
+E:\coullege stuff\ITI\M5\W19\Link.ADO\D2\ADO2\obj\Debug\ADO2.csprojAssemblyReference.cache
+E:\coullege stuff\ITI\M5\W19\Link.ADO\D2\ADO2\obj\Debug\ADO2.Form1.resources
+E:\coullege stuff\ITI\M5\W19\Link.ADO\D2\ADO2\obj\Debug\ADO2.Form2.resources
+E:\coullege stuff\ITI\M5\W19\Link.ADO\D2\ADO2\obj\Debug\ADO2.Properties.Resources.resources
+E:\coullege stuff\ITI\M5\W19\Link.ADO\D2\ADO2\obj\Debug\ADO2.csproj.GenerateResource.cache
+E:\coullege stuff\ITI\M5\W19\Link.ADO\D2\ADO2\obj\Debug\ADO2.csproj.CoreCompileInputs.cache
+E:\coullege stuff\ITI\M5\W19\Link.ADO\D2\ADO2\obj\Debug\ADO2.exe
+E:\coullege stuff\ITI\M5\W19\Link.ADO\D2\ADO2\obj\Debug\ADO2.pdb
